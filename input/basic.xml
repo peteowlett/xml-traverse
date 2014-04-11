@@ -1,0 +1,32 @@
+<root>
+    <token>
+        <id>1</id>
+        <text>One</text>
+        <ner>O</ner>
+    </token>
+    <token>
+        <id>2</id>
+        <text>Two</text>
+        <ner>O</ner>
+    </token>
+    <token>
+        <id>3</id>
+        <text>Peter</text>
+        <ner>PERSON</ner>
+    </token>
+    <token>
+        <id>4</id>
+        <text>Malcolm</text>
+        <ner>PERSON</ner>
+    </token>
+    <token>
+        <id>5</id>
+        <text>Owlett</text>
+        <ner>PERSON</ner>
+    </token>
+    <token>
+        <id>6</id>
+        <text>End</text>
+        <ner>O </ner>
+    </token>
+</root>
